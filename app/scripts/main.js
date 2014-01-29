@@ -134,8 +134,30 @@ var Basses = [
 
 console.log(name);
 
+// 16 ///////
 
+_.random(0, 200);
 
+// 17 ////////
+
+_.isNumber(45 * 5);
+
+// 18 ////////
+
+_.isBoolean(false);
+
+// 19  ////
+
+_.isString("hello");
+
+// 20 ////
+
+_.clone[
+	{name : 'Ripper',       genre : 'Rock',      era : 1970 }, 
+	{name : 'P Bass',       genre : 'All Music', era : 1950 }, 
+	{name : 'Jazz Bass',    genre : 'All Music', era : 1957 }, 
+	{name : 'Rickenbacker', genre : 'Alt Rock',  era : 1960 }
+]; 
 
 
 
